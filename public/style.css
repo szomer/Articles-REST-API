@@ -1,0 +1,29 @@
+html {
+  background-color: aliceblue;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  text-align: right;
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+th {
+  padding: 10px 0px;
+  border-bottom: 1px solid black;
+}
+td {
+  padding-top: 10px;
+}
+
+#container {
+  padding: 40px;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
