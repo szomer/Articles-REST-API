@@ -1,8 +1,10 @@
-# Articles RESTful API
+# Articles REST API
 
-- MongoDB with mongoose, NodeJS, EJS
+RESTful API to handle articles created with NodeJS, MongoDB(mongoose), EJS.
 
 ## Structure
+
+The endpoints:
 
 | HTTP Request verb |          Route: `/articles` |             Route: `/articles/:title` |
 | ----------------- | --------------------------: | ------------------------------------: |
