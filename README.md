@@ -2,6 +2,11 @@
 
 RESTful API to handle articles created with NodeJS, MongoDB(mongoose), EJS.
 
+Examples accessable through your browser:
+- [Overview](https://articles-rest-api.onrender.com/)
+- [GET /articles](https://articles-rest-api.onrender.com/articles)
+- [GET /articles/Painter](https://articles-rest-api.onrender.com/articles/Painter)
+
 ## Structure
 
 The endpoints:
