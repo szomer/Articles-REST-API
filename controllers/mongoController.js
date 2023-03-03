@@ -14,7 +14,7 @@ const options = {
   family: 4, // Use IPv4, skip trying IPv6
 };
 
-function requestP() {
+function connect() {
   return new Promise((resolve, reject) => {
     mongoose
       .connect(url, options)
@@ -40,4 +40,4 @@ function requestP() {
   });
 }
 
-module.exports = requestP();
+module.exports = connect();
